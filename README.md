@@ -276,6 +276,9 @@ convinience Yaeger supplies a method to set both values at once:
 ```java
         setMotionTo(2, 270d);
 ```
+:computer: Now use the `setupEntities()` from the `GameLevel` to add the `Swordfish`, just as we did with the text 
+and button on the `TitleScene`. Let it start in the middel of the screen for now.
+
 :arrow_forward: Run the game again. You should now see a Swordfish that swims from right to left and disappears of the
 screen.
 
