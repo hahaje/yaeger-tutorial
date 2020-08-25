@@ -283,7 +283,7 @@ and button on the `TitleScene`. Let it start in the middel of the screen for now
 screen.
 
 ### Make the `Swordfish` swim in circles
-Now we would like to add behaviour that notifies us when the Swordfish has left te Scene. That way we can place
+Now we would like to add behaviour that notifies us when the Swordfish has left the Scene. That way we can place
 him to the right of the Scene, and make him reappear and continue this loop. 
 
 As seen before, adding behaviour is done by implementing the correct Interface. For this use case, Yaeger supplies
